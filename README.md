@@ -138,8 +138,8 @@ dotnet run
 
 ### ✅ Output
 ```
-Enter your name: Hassan
-Greeting: Hello, Hassan!
+Enter your name: Mohamad
+Greeting: Hello, Mohamad!
 ```
 
 ---
