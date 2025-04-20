@@ -40,7 +40,7 @@ dotnet new console -o GrpcClient
 ## 🚀 Server Configuration (`GrpcServer`)
 
 ### 1. Add Proto File
-Save `greet.proto` in a folder called `Protos`.
+Save `greet.proto` in a folder called `Protos` under your project.
 
 ### 2. Modify `GrpcServer.csproj`
 ```xml
